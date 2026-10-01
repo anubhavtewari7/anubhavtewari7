@@ -10,7 +10,7 @@ I am a Mechanical Design Engineer turned Supply Chain Analyst with a passion for
 
 **[Nautilus](https://github.com/anubhavtewari7/nautilus-terminal)** — a supply chain intelligence terminal for procurement, sourcing, and logistics professionals. Describe what you need to source and get back sourcing hubs, tariff/HTS classification, trade-lane risk scoring, port congestion, and Incoterms cost modeling in one interface.
 
-- **Live:** [https://nautilus-terminal.vercel.app/](https://nautilus-terminal-tau.vercel.app/)
+- **Live:** [https://nautilus-terminal.vercel.app/](https://nautilus-terminal.vercel.app/)
 - **Built for:** Procurement analysts, supply chain managers, and engineers sourcing materials or components.
 - **Data:** Live tariff classification via the official USITC HTS database, real export statistics via UN Comtrade, live FX rates, and live trade news.
 - **Stack:** Next.js, React Three Fiber (3D globe visualization), Tailwind CSS.
